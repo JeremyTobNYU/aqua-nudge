@@ -23,6 +23,8 @@ Every issue carries one `ws:` label. See the project board for status.
 | `ws: enclosure` | Cap CAD, printing, splash protection | `hardware/cad/` |
 | `ws: eval-abet` | User study, analysis, ABET reports | `analysis/`, `docs/reports/` |
 
+**Current plan:** see [docs/PLAN.md](docs/PLAN.md). Crosstalk cancellation is the core; the lights are reduced.
+
 ## How work is tracked
 
 - **Issues** are action items that each fit in one work session (2–3 h). Every issue gets one `ws:` label and one `week: N` label.
