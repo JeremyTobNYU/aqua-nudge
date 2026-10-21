@@ -39,5 +39,6 @@ data/           logging schema and mineral model
 analysis/       study analysis scripts and notebooks
 hardware/       BOM, wiring, cad/ for the cap enclosure
 docs/logbook/   dated engineering log
+docs/research/  sources and findings (see its README)
 docs/reports/   ABET proposal, midterm and final reports
 ```
